@@ -1,3 +1,3 @@
 # MYPYHDOC
 
-# ========== yet add more into this REPO ==============
+# ========== yet to add more into this REPO ==============
